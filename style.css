@@ -1,0 +1,29 @@
+.work {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+    gap: 15px;
+}
+
+.button {
+    width: 150px;
+    height: 100px;
+    border: 2px solid black;
+}
+#grey{
+    background-color: gray;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
